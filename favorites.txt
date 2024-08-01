@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Bhel
 Vada Paav
 Misle Paav
 Noodles
 Iddle Rasam
+=======
+Gharat Ganpati
+Kabir Singh
+Dyybuk
+Masaka
+>>>>>>> movies
